@@ -1,0 +1,5 @@
+# using REST Client extension for VS Code to build and test API requests from satnogs network
+# link of extention: https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+
+###
+GET https://network.satnogs.org/api/observations/?norad_cat_id=51657
