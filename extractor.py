@@ -13,10 +13,36 @@ def get_next_page_url(response):
     return None
 
 
-def download_observations(url):
+def download_observations_and_return_next(url):
     response = requests.get(url)
     data = response.json()
-    print(get_next_page_url(response))
+    for observation in data:
+        obs_id = observation["id"]
+        audio_file = observation["payload"]
+        if audio_file:
+            file_response = requests.get(audio_file)
+            parsed_url = urlparse(audio_file)
+            filename = os.path.basename(parsed_url.path)
+            out_path = os.path.join(OUTDIR,"audios", f"{obs_id}_{filename}")
+            with open(out_path, "wb") as f:
+                f.write(file_response.content)
+            print(f"Downloaded raw signal of observation {obs_id} to {out_path}")
+        demod_file_urls = observation["demoddata"]
+        demod_data_index=0
+        for demod_file_url in demod_file_urls:
+            file_response = requests.get(demod_file_url["payload_demod"])
+            parsed_url = urlparse(demod_file_url["payload_demod"])
+            filename = os.path.basename(parsed_url.path)
+            out_path = os.path.join(OUTDIR,"demodulated", f"{obs_id}_{demod_data_index}_{filename}")
+            with open(out_path, "wb") as f:
+                f.write(file_response.content)
+            print(f"Downloaded demodulated data index {demod_data_index} of observation {obs_id} to {out_path}")
+            demod_data_index += 1
+    return get_next_page_url(response)
 
 if __name__ == "__main__":
-    download_observations(f"{BASE_URL}?norad_cat_id={SAT_ID}") #for InspireSat-1
+    current_url = f"{BASE_URL}?norad_cat_id={SAT_ID}"
+    next_url = download_observations_and_return_next(current_url) #for InspireSat-1
+    # while next_url:
+    #     current_url = next_url
+    #     next_url = download_observations_and_return_next(current_url)
