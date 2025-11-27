@@ -12,6 +12,13 @@ def get_next_page_url(response):
         return response.links["next"]["url"]
     return None
 
+def log(message):
+    with open(os.path.join(OUTDIR, "log.txt"), "a") as f:
+        f.write(message + "\n")
+
+def logerror(message):
+    with open(os.path.join(OUTDIR, "error_log.txt"), "a") as f:
+        f.write(message + "\n")
 
 def download_observations_and_return_next(url):
     response = requests.get(url)
@@ -20,24 +27,30 @@ def download_observations_and_return_next(url):
         obs_id = observation["id"]
         audio_file = observation["payload"]
         if audio_file:
-            file_response = requests.get(audio_file)
-            parsed_url = urlparse(audio_file)
-            filename = os.path.basename(parsed_url.path)
-            out_path = os.path.join(OUTDIR,"audios", f"{obs_id}_{filename}")
-            with open(out_path, "wb") as f:
-                f.write(file_response.content)
-            print(f"Downloaded raw signal of observation {obs_id} to {out_path}")
+            try:
+                file_response = requests.get(audio_file)
+                parsed_url = urlparse(audio_file)
+                filename = os.path.basename(parsed_url.path)
+                out_path = os.path.join(OUTDIR,"audios", f"{obs_id}_{filename}")
+                with open(out_path, "wb") as f:
+                    f.write(file_response.content)
+                log(f"Downloaded raw signal of observation {obs_id} to {out_path}")
+            except:
+                logerror(audio_file)
         demod_file_urls = observation["demoddata"]
         demod_data_index=0
         for demod_file_url in demod_file_urls:
-            file_response = requests.get(demod_file_url["payload_demod"])
-            parsed_url = urlparse(demod_file_url["payload_demod"])
-            filename = os.path.basename(parsed_url.path)
-            out_path = os.path.join(OUTDIR,"demodulated", f"{obs_id}_{demod_data_index}_{filename}")
-            with open(out_path, "wb") as f:
-                f.write(file_response.content)
-            print(f"Downloaded demodulated data index {demod_data_index} of observation {obs_id} to {out_path}")
-            demod_data_index += 1
+            try:
+                file_response = requests.get(demod_file_url["payload_demod"])
+                parsed_url = urlparse(demod_file_url["payload_demod"])
+                filename = os.path.basename(parsed_url.path)
+                out_path = os.path.join(OUTDIR,"demodulated", f"{obs_id}_{demod_data_index}_{filename}")
+                with open(out_path, "wb") as f:
+                    f.write(file_response.content)
+                print(f"Downloaded demodulated data index {demod_data_index} of observation {obs_id} to {out_path}")
+                demod_data_index += 1
+            except:
+                logerror(demod_file_url["payload_demod"])
     return get_next_page_url(response)
 
 if __name__ == "__main__":
