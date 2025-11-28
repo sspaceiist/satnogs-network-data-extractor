@@ -68,7 +68,8 @@ def download_observations_and_return_next(url):
     return next_url
 
 if __name__ == "__main__":
-    current_url = f"{BASE_URL}?norad_cat_id={SAT_ID}"
+    # current_url = f"{BASE_URL}?norad_cat_id={SAT_ID}"
+    current_url = "https://network.satnogs.org/api/observations/?cursor=cD0yMDI1LTA4LTI3KzA1JTNBNDQlM0ExMyUyQjAwJTNBMDA%3D&norad_cat_id=51657"
     next_url = download_observations_and_return_next(current_url) #for InspireSat-1
     while next_url:
         current_url = next_url
