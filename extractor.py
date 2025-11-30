@@ -69,7 +69,7 @@ def download_observations_and_return_next(url):
 
 if __name__ == "__main__":
     # current_url = f"{BASE_URL}?norad_cat_id={SAT_ID}"
-    current_url = "https://network.satnogs.org/api/observations/?cursor=cD0yMDI1LTA4LTI3KzA1JTNBNDQlM0ExMyUyQjAwJTNBMDA%3D&norad_cat_id=51657"
+    current_url = "https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA2LTExKzA0JTNBNDQlM0EzOSUyQjAwJTNBMDA%3D&norad_cat_id=51657" #in case of stopped dump in between and you have to restart it where it stopped just take the last url for next page in log.txt file and paste here and then re run the script
     next_url = download_observations_and_return_next(current_url) #for InspireSat-1
     while next_url:
         current_url = next_url
