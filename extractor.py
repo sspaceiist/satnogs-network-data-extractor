@@ -30,6 +30,15 @@ def logobs(message):
 def download_observations_and_return_next(url):
     start_time = time.time()
     response = requests.get(url)
+    if response.status_code != 200:
+        print(f"Failed to fetch data from {url}, status code: {response.status_code}")
+        if response.status_code == 429:
+            wait = int(response.headers.get("Retry-After")) + 10
+            print(f"waiting for {wait} seconds before retrying...")
+            time.sleep(wait)
+            print("retrying now...")
+            return download_observations_and_return_next(url)
+        return None
     data = response.json()
     for observation in data:
         obs_id = observation["id"]
@@ -69,7 +78,7 @@ def download_observations_and_return_next(url):
 
 if __name__ == "__main__":
     # current_url = f"{BASE_URL}?norad_cat_id={SAT_ID}"
-    current_url = "https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAyLTA3KzE2JTNBMjglM0E1MSUyQjAwJTNBMDA%3D&norad_cat_id=51657" #in case of stopped dump in between and you have to restart it where it stopped just take the last url for next page in log.txt file and paste here and then re run the script
+    current_url = "https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTAyKzIyJTNBNDAlM0EyMCUyQjAwJTNBMDA%3D&norad_cat_id=51657" #in case of stopped dump in between and you have to restart it where it stopped just take the last url for next page in log.txt file and paste here and then re run the script
     next_url = download_observations_and_return_next(current_url) #for InspireSat-1
     while next_url:
         current_url = next_url
