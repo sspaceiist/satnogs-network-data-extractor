@@ -1,0 +1,799 @@
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDI1LTAyLTIwKzE4JTNBMDglM0E1MiUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 205 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI1LTAyLTA1KzE1JTNBNTUlM0ExMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI1LTAxLTIwKzA2JTNBMzMlM0E0MyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI1LTAxLTA0KzA0JTNBMzElM0E0MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTEyLTE5KzA1JTNBMjQlM0EzMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTEyLTAyKzE3JTNBMTIlM0EzMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTExLTEzKzE2JTNBMDAlM0EyNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTExLTAzKzExJTNBNTYlM0E1NyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTEwLTIwKzE3JTNBMDklM0EzNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTEwLTE5KzAxJTNBMzYlM0E0MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTEwLTExKzE2JTNBMzAlM0EwNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA5LTI4KzAzJTNBNTAlM0EzNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA5LTI1KzAzJTNBMzklM0E0NCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA5LTE0KzE2JTNBMjklM0EwOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA4LTI5KzE1JTNBNDklM0EyNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA4LTEyKzE2JTNBNTYlM0EzOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA3LTI5KzA0JTNBMTYlM0EyOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA3LTIwKzAxJTNBMTclM0EwNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA3LTA5KzE2JTNBNTAlM0E1NCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 152 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA3LTA5KzE2JTNBNTAlM0E1NCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA2LTI0KzE2JTNBMzQlM0EwOSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 1121 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA2LTI0KzE2JTNBMzQlM0EwOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA2LTEyKzA1JTNBNTYlM0E0MyUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 57 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA2LTEyKzA1JTNBNTYlM0E0MyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA1LTMxKzE5JTNBNDElM0EyNyUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 500 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA1LTMxKzE5JTNBNDElM0EyNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA1LTE2KzA1JTNBMTYlM0EwNyUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 33 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA1LTE2KzA1JTNBMTYlM0EwNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA1LTA0KzA2JTNBMzYlM0ExNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA0LTIyKzE2JTNBNTQlM0E1NyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA0LTE3KzA2JTNBMjklM0E1NiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA0LTE0KzE2JTNBMzklM0EzNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA0LTA1KzEwJTNBMTglM0E0NyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTA0LTAyKzA1JTNBMzUlM0E1OCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTAzLTI0KzA1JTNBMzglM0EyNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTAzLTE1KzE2JTNBMTElM0ExNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTAzLTA3KzA1JTNBMDclM0EwOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTAzLTAxKzA0JTNBMDUlM0E1OSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTAyLTIzKzA0JTNBNTYlM0EwNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTAyLTE2KzA0JTNBMDQlM0EyMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTAyLTA3KzA1JTNBMzElM0ExMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTAxLTMwKzE3JTNBMzYlM0EyMyUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 35 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTAxLTMwKzE3JTNBMzYlM0EyMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTAxLTI4KzAwJTNBMzQlM0ExOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTAxLTI1KzA2JTNBNDMlM0EzOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTAxLTE4KzE2JTNBMjklM0E1MiUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 43 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTAxLTE4KzE2JTNBMjklM0E1MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTAxLTEyKzA0JTNBNDglM0EwMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDI0LTAxLTA0KzE2JTNBMjUlM0E1MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0xMi0yOSsxNCUzQTAxJTNBMzYlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTEyLTIzKzE3JTNBMTIlM0EwOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTEyLTE4KzE1JTNBMzclM0E1NSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTEyLTEyKzAzJTNBNDklM0EyNiUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 12 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTEyLTEyKzAzJTNBNDklM0EyNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTEyLTA2KzAzJTNBNDclM0EyNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTExLTI5KzA0JTNBNDklM0EwNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTExLTE3KzA1JTNBMjUlM0EzOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTExLTEwKzE2JTNBMzklM0E1NSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTEwLTI3KzE2JTNBMTYlM0E0MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTEwLTIyKzE5JTNBNDAlM0EwMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTEwLTE5KzE3JTNBMTAlM0ExNSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 12 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTEwLTE5KzE3JTNBMTAlM0ExNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTEwLTExKzE2JTNBMjYlM0EwMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTEwLTA3KzEzJTNBMTclM0EyOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTEwLTAzKzAxJTNBMjQlM0E1NyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA5LTIxKzA1JTNBMjYlM0EwMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA5LTE0KzEzJTNBNDklM0E0MCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA5LTEwKzE3JTNBNDQlM0EyNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA5LTEwKzAxJTNBNTQlM0EwOCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 1438 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA5LTEwKzAxJTNBNTQlM0EwOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA5LTAyKzA3JTNBNDYlM0E1OCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA4LTI0KzAwJTNBMzQlM0ExNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA4LTE1KzA1JTNBMDclM0EwMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA4LTA4KzAyJTNBMDIlM0E1MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wOC0wNCsxNSUzQTUyJTNBMTElMkIwMCUzQTAw&norad_cat_id=51657, status code: 429
+waiting for 11 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wOC0wNCsxNSUzQTUyJTNBMTElMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wOC0wMSswNCUzQTMwJTNBNDglMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA3LTI3KzIyJTNBNDclM0EyNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wNy0yNCsyMyUzQTM3JTNBMTIlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA3LTIxKzA1JTNBNTglM0EyNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wNy0xNisxNiUzQTMyJTNBMzQlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA3LTExKzA3JTNBMTAlM0E0NCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA3LTA1KzA3JTNBMTUlM0E1NSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wNi0yOSsxMyUzQTIyJTNBMjElMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wNi0yNCsxNiUzQTE1JTNBNDElMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA2LTE5KzA2JTNBNTUlM0EwMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wNi0xMysxNiUzQTA1JTNBNTQlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wNi0wOCswNiUzQTQ0JTNBMTIlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA2LTA1KzA1JTNBNTglM0EzMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA2LTAxKzA3JTNBMDIlM0ExMyUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 163 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA2LTAxKzA3JTNBMDIlM0ExMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wNS0yOCswNCUzQTU1JTNBMzglMkIwMCUzQTAw&norad_cat_id=51657, status code: 429
+waiting for 1122 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wNS0yOCswNCUzQTU1JTNBMzglMkIwMCUzQTAw&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA1LTIyKzA2JTNBMzIlM0EyOCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 57 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA1LTIyKzA2JTNBMzIlM0EyOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA1LTE3KzA0JTNBNDYlM0EwMiUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 500 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA1LTE3KzA0JTNBNDYlM0EwMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA1LTEyKzA2JTNBMDElM0E0NCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 33 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA1LTEyKzA2JTNBMDElM0E0NCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA1LTA3KzE2JTNBMzAlM0E1NiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA1LTAzKzA1JTNBMTYlM0ExNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wNC0yOSswNCUzQTQ0JTNBMDUlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wNC0yNCsxNiUzQTM5JTNBMDUlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA0LTE5KzA3JTNBMTUlM0EwOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA0LTE3KzE0JTNBMDQlM0E1MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA0LTE1KzA2JTNBNDElM0EyNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA0LTEwKzIzJTNBMTklM0E1NCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA0LTEwKzA2JTNBMTklM0E1NiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA0LTA5KzA1JTNBMDYlM0E0NCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA0LTA3KzA3JTNBMDglM0EyOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wNC0wNSswNCUzQTMzJTNBMDglMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTA0LTAyKzA2JTNBNDklM0EwMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAzLTI4KzE1JTNBMzclM0EwNCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 39 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAzLTI4KzE1JTNBMzclM0EwNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAzLTI0KzA1JTNBNTQlM0E1NiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wMy0xOSsxMyUzQTMwJTNBMzglMkIwMCUzQTAw&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAzLTE1KzA0JTNBNTclM0E1NyUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 42 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAzLTE1KzA0JTNBNTclM0E1NyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAzLTEyKzA1JTNBNDAlM0EzMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAzLTAzKzA0JTNBNDIlM0EzOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wMi0yNiswNSUzQTU2JTNBMTglMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wMi0yMCswNyUzQTE4JTNBNDQlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAyLTE0KzE2JTNBMjAlM0EyMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0yJnA9MjAyMy0wMi0xMiswNCUzQTM2JTNBNTQlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAyLTEwKzE3JTNBMTklM0ExNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAyLTA5KzIyJTNBMTYlM0EwOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAyLTA5KzA2JTNBNDklM0ExNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAyLTA4KzA1JTNBMzElM0E1NyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAyLTA2KzEwJTNBNDMlM0E1MCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wMi0wNCsyMSUzQTUzJTNBMjklMkIwMCUzQTAw&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAyLTA0KzA2JTNBMjElM0E0MSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 20 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAyLTA0KzA2JTNBMjElM0E0MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAyLTAzKzExJTNBMjYlM0EyMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wMi0wMisxMSUzQTQxJTNBMDclMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAxLTMxKzIyJTNBNDclM0E1MyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wMS0zMCsxMCUzQTQ3JTNBMjQlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAxLTI4KzE1JTNBMzYlM0EwNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAxLTI2KzIyJTNBMjMlM0EyMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wMS0yNSswNSUzQTM2JTNBMzclMkIwMCUzQTAw&norad_cat_id=51657, status code: 429
+waiting for 1434 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wMS0yNSswNSUzQTM2JTNBMzclMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0yJnA9MjAyMy0wMS0yMysxMCUzQTUwJTNBMzAlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAxLTIwKzIyJTNBMTMlM0ExNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAxLTE4KzIyJTNBMzklM0E1NiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wMS0xNysxMCUzQTM5JTNBMzAlMkIwMCUzQTAw&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAxLTE1KzIxJTNBNDclM0E1MiUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 11 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAxLTE1KzIxJTNBNDclM0E1MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wMS0xNCswNSUzQTAyJTNBNDUlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAxLTExKzE2JTNBMjUlM0ExNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAxLTA5KzIzJTNBMDklM0EzOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMy0wMS0wOCsxNSUzQTMwJTNBMTklMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAxLTA2KzE1JTNBNTYlM0EzNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAxLTA0KzE2JTNBMjYlM0EyOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAxLTAzKzEwJTNBNDMlM0ExNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIzLTAxLTAxKzIzJTNBMjQlM0E1NCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEyLTMwKzExJTNBMzUlM0E1OSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0yJnA9MjAyMi0xMi0yOSswNSUzQTI4JTNBMDIlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEyLTI3KzEwJTNBNDMlM0E0NSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEyLTI1KzIxJTNBNTAlM0E0NyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMi0yMysyMiUzQTE3JTNBNTAlMkIwMCUzQTAw&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEyLTIyKzA3JTNBMDMlM0ExNCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 164 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEyLTIyKzA3JTNBMDMlM0ExNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMi0yMCsxMCUzQTQyJTNBNDklMkIwMCUzQTAw&norad_cat_id=51657, status code: 429
+waiting for 1121 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMi0yMCsxMCUzQTQyJTNBNDklMkIwMCUzQTAw&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEyLTE4KzE3JTNBMDglM0EwNiUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 58 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEyLTE4KzE3JTNBMDglM0EwNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEyLTE2KzIyJTNBMTYlM0E1NSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 499 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEyLTE2KzIyJTNBMTYlM0E1NSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMi0xNCsxMiUzQTAyJTNBNTYlMkIwMCUzQTAw&norad_cat_id=51657, status code: 429
+waiting for 33 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMi0xNCsxMiUzQTAyJTNBNTYlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMi0xMisyMyUzQTEwJTNBNTMlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEyLTExKzIxJTNBNTAlM0ExMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMi0xMCsxNyUzQTIwJTNBMDMlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEyLTA4KzExJTNBNDglM0EzOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEyLTA2KzEyJTNBMTUlM0E0MyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEyLTA0KzIzJTNBMjMlM0E0OSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMi0wMysxMSUzQTIyJTNBMzMlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMi0wMSsxMSUzQTQ4JTNBMDAlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTExLTI4KzA0JTNBMzUlM0E1NCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTExLTI0KzA1JTNBMjMlM0EwNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTExLTIzKzE2JTNBMjAlM0E0MCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTExLTIzKzA1JTNBMzYlM0EwOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTExLTIyKzA4JTNBMzMlM0EzMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTExLTIwKzExJTNBMDUlM0EyNiUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 37 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTExLTIwKzExJTNBMDUlM0EyNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTExLTE4KzA1JTNBMTMlM0E0NSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTExLTE2KzA1JTNBMzclM0EwNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTExLTE0KzEwJTNBNDklM0E0OCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 41 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTExLTE0KzEwJTNBNDklM0E0OCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTExLTEyKzExJTNBMTYlM0EzMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTExLTExKzA2JTNBMzclM0EyMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTExLTEwKzA1JTNBMjQlM0E0NyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMS0wOSsxMSUzQTU2JTNBMTMlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMS0wOCsyMSUzQTE3JTNBNTMlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMS0wOCswNCUzQTA5JTNBMzQlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTExLTA2KzIzJTNBMTYlM0EyMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTExLTA1KzIxJTNBNTUlM0EwMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMS0wNCsxMSUzQTI5JTNBNTYlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTExLTAzKzA2JTNBNDklM0EzMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMS0wMisxMSUzQTUyJTNBNDElMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTExLTAxKzEyJTNBMDYlM0E0OCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMC0zMSsyMyUzQTAwJTNBMDMlMkIwMCUzQTAw&norad_cat_id=51657, status code: 429
+waiting for 25 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMC0zMSsyMyUzQTAwJTNBMDMlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTMwKzIxJTNBMzklM0E0MCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTI5KzE3JTNBMDklM0EwNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTI4KzE3JTNBMjMlM0ExOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTI3KzA2JTNBNTAlM0ExMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTI2KzE2JTNBMTQlM0EzOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMC0yNSsyMiUzQTQ0JTNBMjMlMkIwMCUzQTAw&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTI0KzE2JTNBMzklM0EzMyUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 1439 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTI0KzE2JTNBMzklM0EzMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTI0KzAwJTNBNDYlM0E1OCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTIzKzE2JTNBNDglM0E0NSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTIzKzA2JTNBMDclM0EyOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTIyKzE3JTNBMDUlM0E0OCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMC0yMisxMCUzQTI3JTNBNTUlMkIwMCUzQTAw&norad_cat_id=51657, status code: 429
+waiting for 16 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMC0yMisxMCUzQTI3JTNBNTUlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTIxKzA2JTNBMzMlM0E1MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMC0xOSsyMiUzQTI3JTNBNTclMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTE4KzE2JTNBMjQlM0E0MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTE4KzA1JTNBMzclM0E1MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTE3KzA3JTNBMjUlM0EwNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTE2KzEwJTNBNTElM0EwMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTE1KzA2JTNBMTMlM0E0NCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMC0xNCsxMSUzQTE3JTNBMTglMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTEzKzE1JTNBNTElM0E1MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTEyKzE3JTNBNDQlM0EzOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTEyKzA0JTNBMDQlM0E1OSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMC0xMSsxMCUzQTIyJTNBMjMlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTEwKzE2JTNBMzIlM0E0NSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTA5KzE2JTNBNDclM0EzMSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 174 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTA5KzE2JTNBNDclM0EzMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMC0wOCsyMSUzQTQyJTNBNDMlMkIwMCUzQTAw&norad_cat_id=51657, status code: 429
+waiting for 1122 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0xMC0wOCsyMSUzQTQyJTNBNDMlMkIwMCUzQTAw&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTA4KzEwJTNBMjAlM0EyMyUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 59 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTA4KzEwJTNBMjAlM0EyMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTA3KzE1JTNBMzUlM0EwMyUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 500 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTA3KzE1JTNBMzUlM0EwMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTA2KzIyJTNBMDclM0EyOSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 34 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTA2KzIyJTNBMDclM0EyOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTA1KzIyJTNBMjAlM0EwNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTA1KzA1JTNBMTMlM0EzMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTA0KzA1JTNBMjglM0EwMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTAyKzIyJTNBNTglM0EwMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTEwLTAxKzE2JTNBNTQlM0EyMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTMwKzIzJTNBMjMlM0E0OSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOS0zMCswNiUzQTIxJTNBNTElMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTI5KzE1JTNBNDMlM0ExMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTI4KzA1JTNBMDglM0E0OSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOS0yNysxMCUzQTEzJTNBMzYlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTI2KzExJTNBNTglM0ExNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTI1KzEyJTNBMTIlM0EyMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTI0KzIxJTNBMzElM0EzMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTIzKzIyJTNBMTMlM0E1OCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 47 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTIzKzIyJTNBMTMlM0E1OCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTIzKzA2JTNBMTQlM0EwMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOS0yMisxMSUzQTE2JTNBMjklMkIwMCUzQTAw&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOS0yMSsxNyUzQTI4JTNBMTUlMkIwMCUzQTAw&norad_cat_id=51657, status code: 429
+waiting for 43 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOS0yMSsxNyUzQTI4JTNBMTUlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTIwKzA2JTNBNTQlM0E1MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTE5KzE2JTNBMTUlM0ExNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTE4KzEzJTNBNDIlM0EzNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTE3KzIxJTNBMjYlM0ExNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTE3KzAwJTNBNDglM0ExNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOS0xNisxMCUzQTU4JTNBNDUlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTE1KzE1JTNBMzMlM0EwMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0yJnA9MjAyMi0wOS0xNCsxNyUzQTIyJTNBMjglMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTEzKzIyJTNBMTYlM0EwNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOS0xMisyMiUzQTMwJTNBMjklMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTEyKzA1JTNBMjUlM0EzMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTExKzA1JTNBNDIlM0EyMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTEwKzEyJTNBMTUlM0EyNyUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 29 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTEwKzEyJTNBMTUlM0EyNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTA5KzIzJTNBMDclM0EyNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOS0wOCsyMyUzQTIxJTNBMjglMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOS0wNysyMyUzQTM0JTNBNTQlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTA3KzA0JTNBNTYlM0EzMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTA2KzAzJTNBNTIlM0E0OSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTA1KzA1JTNBMjUlM0EwMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOS0wNCsxMSUzQTU0JTNBNTQlMkIwMCUzQTAw&norad_cat_id=51657, status code: 429
+waiting for 1440 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOS0wNCsxMSUzQTU0JTNBNTQlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOS0wMysxMyUzQTQ2JTNBMTAlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA5LTAyKzE2JTNBMjMlM0EzMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTMxKzIzJTNBMzAlM0ExNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTMwKzA2JTNBMzclM0EwMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTI5KzA2JTNBNTAlM0ExMCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 15 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTI5KzA2JTNBNTAlM0ExMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTI4KzA3JTNBMDElM0EwOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOC0yNysxMCUzQTI4JTNBNDElMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTI2KzA3JTNBMjQlM0E0MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOC0yNSsxMiUzQTI3JTNBMDQlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOC0yNCsxNSUzQTI3JTNBMjIlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTIzKzE3JTNBMTclM0EyNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTIyKzE3JTNBMzAlM0ExMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOC0yMSsyMiUzQTI0JTNBMzclMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTIxKzA1JTNBMjAlM0ExMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0yJnA9MjAyMi0wOC0yMCsxMSUzQTU0JTNBNDklMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTE5KzE4JTNBMDQlM0EyOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTE4KzIzJTNBMDElM0E1MCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTE4KzA1JTNBNTglM0ExMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOC0xNysxMiUzQTM0JTNBNTQlMkIwMCUzQTAw&norad_cat_id=51657, status code: 429
+waiting for 174 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOC0xNysxMiUzQTM0JTNBNTQlMkIwMCUzQTAw&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTE2KzE1JTNBMzglM0EwMiUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 1122 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTE2KzE1JTNBMzglM0EwMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOC0xNSsyMiUzQTA1JTNBNTYlMkIwMCUzQTAw&norad_cat_id=51657, status code: 429
+waiting for 57 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOC0xNSsyMiUzQTA1JTNBNTYlMkIwMCUzQTAw&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTE1KzA1JTNBMDYlM0ExOSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 500 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTE1KzA1JTNBMDYlM0ExOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTE0KzExJTNBNDElM0EzOSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 33 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTE0KzExJTNBNDElM0EzOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOC0xMysxNyUzQTUwJTNBMDMlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTEzKzA3JTNBMDIlM0EwNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOC0xMisxMiUzQTA2JTNBMDMlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOC0xMSsyMiUzQTU2JTNBMDclMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOC0xMSswNyUzQTI0JTNBNTQlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOC0xMCsxMiUzQTI4JTNBMDMlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0yJnA9MjAyMi0wOC0wOSsxNSUzQTI3JTNBMDYlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTA4KzA2JTNBMzElM0EyNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTA3KzE1JTNBNTIlM0E0NiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTA2KzE3JTNBNDQlM0EzNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTA1KzIxJTNBMDMlM0EyOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTA1KzA0JTNBMDIlM0E0NiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wOC0wNCsxMCUzQTM0JTNBNTQlMkIwMCUzQTAw&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTAzKzEwJTNBNDclM0E0OCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 44 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTAzKzEwJTNBNDclM0E0OCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTAyKzE2JTNBMzUlM0EzNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTAxKzIzJTNBMjclM0E1NCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTAxKzExJTNBMDklM0ExOSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 42 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA4LTAxKzExJTNBMDklM0ExOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTMxKzE3JTNBMjElM0ExNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTMxKzAzJTNBNDUlM0E1MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTMwKzA2JTNBNDQlM0ExMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTI5KzEwJTNBMTMlM0EyOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTI4KzEzJTNBMjElM0ExOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTI3KzIxJTNBMjAlM0EzMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTI2KzIzJTNBMDklM0ExNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTI2KzA2JTNBMDQlM0EzMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTI1KzA0JTNBNDUlM0EzMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTI0KzA0JTNBNTclM0E1NCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTIzKzExJTNBMjglM0E0MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNy0yMisyMiUzQTIxJTNBMzQlMkIwMCUzQTAw&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTIyKzA2JTNBNTQlM0EzMCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 28 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTIyKzA2JTNBNTQlM0EzMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTIxKzE2JTNBMTYlM0ExMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTIxKzA1JTNBMzElM0EwMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTIwKzEyJTNBMDQlM0E1MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTE5KzIxJTNBMjclM0EzOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTE4KzIzJTNBMTQlM0EyOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTE4KzA2JTNBMDklM0EzOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTE3KzExJTNBMDclM0E1NSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 1442 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTE3KzExJTNBMDclM0E1NSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTE2KzE1JTNBNDMlM0E1MyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTE1KzE3JTNBMzAlM0EwMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTE0KzIyJTNBMjclM0EzNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTE0KzA2JTNBNTklM0EzMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTEzKzA4JTNBMDYlM0EwNSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 14 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTEzKzA4JTNBMDYlM0EwNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTEyKzE2JTNBMzElM0EzNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTExKzIzJTNBMDUlM0EyMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTExKzA2JTNBMDIlM0EyOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTEwKzIxJTNBNDMlM0ExNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNy0xMCsxMSUzQTAxJTNBMjAlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTA5KzIxJTNBNTMlM0E1OCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTA5KzA5JTNBNDAlM0EzNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTA4KzA2JTNBMzklM0EyOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTA3KzE2JTNBMDUlM0E1MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNy0wNisyMiUzQTMxJTNBNTclMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTA2KzEwJTNBMTclM0E0MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTA1KzE2JTNBMjUlM0EzMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTA0KzIxJTNBMjQlM0E1NSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTA0KzEwJTNBNDIlM0E1OCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 174 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTA0KzEwJTNBNDIlM0E1OCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTAzKzE4JTNBMjglM0EwMSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 1124 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTAzKzE4JTNBMjglM0EwMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNy0wMisyMSUzQTQ5JTNBMDQlMkIwMCUzQTAw&norad_cat_id=51657, status code: 429
+waiting for 57 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNy0wMisyMSUzQTQ5JTNBMDQlMkIwMCUzQTAw&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTAyKzA0JTNBNDIlM0EyNCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 500 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTAyKzA0JTNBNDIlM0EyNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTAxKzExJTNBMTYlM0E0NSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 34 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA3LTAxKzExJTNBMTYlM0E0NSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNi0zMCswOSUzQTU2JTNBMTYlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA2LTI5KzA2JTNBNTUlM0E0MyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA2LTI4KzAwJTNBMTQlM0E1MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA2LTI2KzIzJTNBMzYlM0EwMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA2LTI1KzIxJTNBMzklM0EzMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA2LTI0KzE3JTNBMDglM0ExNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNi0yMysxNSUzQTQ0JTNBMTMlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNi0yMisxMSUzQTMyJTNBMjMlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA2LTIxKzExJTNBMDklM0EyNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA2LTIwKzEwJTNBMjMlM0EzNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA2LTE4KzIzJTNBMDMlM0E1MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA2LTE3KzEyJTNBMzUlM0EyMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA2LTE2KzA2JTNBMjYlM0EwNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNi0xNCsyMiUzQTE5JTNBMDglMkIwMCUzQTAw&norad_cat_id=51657, status code: 429
+waiting for 45 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNi0xNCsyMiUzQTE5JTNBMDglMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA2LTEzKzIwJTNBNTglM0EwMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNi0xMisyMiUzQTQzJTNBMzUlMkIwMCUzQTAw&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA2LTExKzEyJTNBMTglM0E0MyUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 43 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA2LTExKzEyJTNBMTglM0E0MyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNi0wOSsyMyUzQTE5JTNBMzIlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNi0wOCsxMiUzQTUwJTNBNTglMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA2LTA3KzA5JTNBNTQlM0EyNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA2LTA2KzA1JTNBMTclM0EwNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNi0wNSswNSUzQTMxJTNBNTYlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA2LTAzKzE2JTNBMzglM0ExNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA2LTAyKzEwJTNBNTMlM0ExOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNi0wMSsxMiUzQTQyJTNBMTYlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNS0zMSsyMiUzQTAxJTNBMzAlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNS0zMSsxMSUzQTE4JTNBMjQlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNS0zMCsyMiUzQTEyJTNBMDMlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNS0zMCsxMSUzQTI5JTNBMTYlMkIwMCUzQTAw&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTI5KzE3JTNBMzklM0E0NiUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 28 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTI5KzE3JTNBMzklM0E0NiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNS0yOSsxMCUzQTA4JTNBMTMlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTI4KzE2JTNBMjElM0EwMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTI3KzIyJTNBNTAlM0ExMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTI3KzA3JTNBMjAlM0E1NiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTI2KzEyJTNBMTglM0EwMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTI1KzIxJTNBMzclM0E1OCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTI1KzA0JTNBMzglM0EzNyUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 1442 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTI1KzA0JTNBMzglM0EzNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTI0KzExJTNBMDglM0E0MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTIzKzE1JTNBNDMlM0EzNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTIyKzIyJTNBMTUlM0E0NiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTIyKzExJTNBMzMlM0EwNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTIxKzE3JTNBNDUlM0ExMSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 11 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTIxKzE3JTNBNDUlM0ExMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTIxKzExJTNBMDglM0EyNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNS0yMCsyMSUzQTA2JTNBMjAlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTIwKzA1JTNBMzYlM0E1NCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTE5KzEyJTNBMTAlM0EwNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTE4KzIzJTNBMDIlM0ExMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTE4KzEwJTNBNDYlM0E0MCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTE3KzIwJTNBNTIlM0EyMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTE3KzEwJTNBNTklM0EyMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTE2KzIxJTNBNTMlM0E0MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTE2KzA3JTNBNTglM0E0MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNS0xNSsxOCUzQTU4JTNBMTglMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTE1KzA0JTNBNTclM0E1MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTE0KzE1JTNBNTUlM0EyMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTEzKzIyJTNBMjglM0EyNSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 173 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTEzKzIyJTNBMjglM0EyNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTEzKzExJTNBNDUlM0ExMCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 1125 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTEzKzExJTNBNDUlM0ExMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTEyKzIxJTNBMDglM0EwMSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 56 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTEyKzIxJTNBMDglM0EwMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTEyKzExJTNBNTclM0E0MiUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 500 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTEyKzExJTNBNTclM0E0MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNS0xMSsyMSUzQTE5JTNBMDQlMkIwMCUzQTAw&norad_cat_id=51657, status code: 429
+waiting for 34 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNS0xMSsyMSUzQTE5JTNBMDQlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTExKzA0JTNBMTYlM0EzNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTEwKzEyJTNBMjMlM0E1NyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTA5KzE5JTNBMTUlM0E1MyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTA5KzA2JTNBMTMlM0EzNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTA4KzE3JTNBMDclM0E1MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTA4KzA0JTNBNDclM0E0MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNS0wNysxNSUzQTQ2JTNBMTAlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNS0wNyswNCUzQTU5JTNBMzElMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTA2KzE1JTNBNTclM0EzMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTA1KzIyJTNBMjglM0E0MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTA1KzA3JTNBNTUlM0EwNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTA0KzE2JTNBMjUlM0EyMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTAzKzIxJTNBMjElM0EwMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTAyKzIzJTNBMDUlM0EzMCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 45 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTAyKzIzJTNBMDUlM0EzMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTAyKzA3JTNBMzglM0EzMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA1LTAxKzE2JTNBNTklM0EwMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTMwKzIxJTNBNTUlM0E1OSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 42 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTMwKzIxJTNBNTUlM0E1OSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTMwKzA5JTNBMzklM0E0NCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTI5KzE3JTNBMjAlM0ExNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTI5KzA1JTNBMDMlM0EzMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTI4KzExJTNBMzUlM0EwMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTI3KzE3JTNBNDclM0ExNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTI2KzIyJTNBNDIlM0ExMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNC0yNisxMSUzQTI5JTNBNTklMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTI1KzIxJTNBMjElM0EzMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTI1KzEwJTNBMDclM0EyMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTI0KzIxJTNBMzAlM0ExNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNC0yNCswNiUzQTAxJTNBNTUlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTIzKzEyJTNBMzUlM0E1MyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTIyKzE1JTNBMzUlM0EwNSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 28 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTIyKzE1JTNBMzUlM0EwNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTIxKzIyJTNBMDYlM0EwMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTIxKzA2JTNBMzclM0EzMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTIwKzE1JTNBNTclM0EzNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNC0xOSsyMCUzQTA0JTNBMDUlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wNC0xOSswOSUzQTAwJTNBMTYlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTE4KzE2JTNBMjIlM0EwNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTE4KzA1JTNBMzglM0EyMSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 1445 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTE4KzA1JTNBMzglM0EyMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTE3KzEzJTNBNDUlM0ExMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTE2KzIzJTNBMDQlM0EzNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTE2KzA2JTNBMDElM0EzOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTE1KzEyJTNBMzQlM0ExOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTE0KzE3JTNBMTElM0ExOCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 13 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTE0KzE3JTNBMTElM0ExOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTE0KzA2JTNBMjMlM0EwMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTEzKzE3JTNBMjIlM0E0OSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTEyKzIyJTNBMTglM0EwMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTEyKzExJTNBMzQlM0ExMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTExKzIwJTNBNTUlM0E0MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTExKzA3JTNBNTQlM0EyNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTEwKzE2JTNBMjAlM0EzMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTEwKzA1JTNBMzMlM0E1OSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTA5KzE1JTNBMDMlM0E0MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTA4KzIxJTNBMjglM0E0NSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTA3KzIxJTNBNDAlM0EyMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTA3KzA3JTNBNDklM0ExNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTA2KzE1JTNBMzMlM0EzMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTA1KzIzJTNBNDAlM0EyMSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 175 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTA1KzIzJTNBNDAlM0EyMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTA1KzExJTNBMjIlM0EzMCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 1126 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTA1KzExJTNBMjIlM0EzMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTA0KzIwJTNBNDMlM0E1NSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 54 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTA0KzIwJTNBNDMlM0E1NSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTA0KzA5JTNBNTklM0E0OSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 499 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTA0KzA5JTNBNTklM0E0OSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTAzKzE2JTNBMDglM0E0MyUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 34 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTAzKzE2JTNBMDglM0E0MyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTAzKzA2JTNBNTclM0EwNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTAyKzEwJTNBMjQlM0EyMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTAyKzAyJTNBMzAlM0E0OSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTAxKzE2JTNBMzElM0EzOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTAxKzEwJTNBMzUlM0E0OCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTA0LTAxKzAwJTNBMzclM0EzMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTMxKzIxJTNBMjclM0E1MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTMxKzEyJTNBMjIlM0EwMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTMxKzA1JTNBNTYlM0EzMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTMwKzEyJTNBMzIlM0E1MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTI5KzIzJTNBMjYlM0ExOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTI5KzExJTNBMDglM0E1MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTI4KzExJTNBMjMlM0EwMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTI3KzE3JTNBMzElM0EzOCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 44 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTI3KzE3JTNBMzElM0EzOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTI3KzA1JTNBMDglM0E1MyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTI2KzE2JTNBMDglM0EzNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTI2KzA2JTNBNTYlM0EyNCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 43 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTI2KzA2JTNBNTYlM0EyNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTI1KzE2JTNBMTklM0EwNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTI1KzA3JTNBMDclM0E1MyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTI0KzE2JTNBMzIlM0EyMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTIzKzIzJTNBMDIlM0EwNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTIzKzEwJTNBNDIlM0E0NSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTIyKzIxJTNBMzklM0EwOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wMy0yMisxMCUzQTU1JTNBNTElMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wMy0yMSsyMSUzQTQ5JTNBNTElMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTIxKzExJTNBMDUlM0EzNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wMy0yMCsyMiUzQTAwJTNBMTYlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTIwKzExJTNBMTglM0ExNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTE5KzIyJTNBMTIlM0ExNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTE5KzExJTNBMjglM0EzMyUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 25 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTE5KzExJTNBMjglM0EzMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wMy0xOCsyMCUzQTUwJTNBNDglMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTE4KzA1JTNBMjIlM0EyNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTE3KzE2JTNBMTMlM0ExNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wMy0xNyswNSUzQTMzJTNBMzMlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTE2KzE2JTNBMzAlM0ExMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTE2KzAwJTNBMzMlM0ExNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTE1KzE2JTNBNDAlM0EyMyUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 1443 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTE1KzE2JTNBNDAlM0EyMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTE1KzA1JTNBNTElM0E1OCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTE0KzE2JTNBNDglM0EyMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTEzKzIzJTNBMjIlM0EwNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTEzKzExJTNBMDMlM0E0NSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTEyKzE3JTNBMTYlM0EwMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTExKzIyJTNBMDklM0E0OCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTExKzA2JTNBNDAlM0EwNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTEwKzExJTNBNDAlM0EwMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wMy0wOSsyMiUzQTMxJTNBNDklMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTA5KzEwJTNBMTYlM0E0NyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTA4KzE2JTNBMjUlM0EzOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wMy0wOCswNyUzQTE1JTNBNDIlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTA3KzE2JTNBMzYlM0E1MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTA2KzIzJTNBMDclM0EyNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTA2KzEyJTNBMjQlM0E1MyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTA1KzIzJTNBMTclM0EzNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTA1KzEyJTNBMzclM0E0NyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTA0KzIzJTNBMzElM0E0NyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTA0KzExJTNBMTclM0EwNiUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 180 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTA0KzExJTNBMTclM0EwNiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTAzKzIyJTNBMDclM0ExOSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 1126 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTAzKzIyJTNBMDclM0ExOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wMy0wMyswNiUzQTM4JTNBMTclMkIwMCUzQTAw&norad_cat_id=51657, status code: 429
+waiting for 55 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wMy0wMyswNiUzQTM4JTNBMTclMkIwMCUzQTAw&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTAyKzE1JTNBNTglM0E1MyUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 499 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTAyKzE1JTNBNTglM0E1MyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTAxKzIyJTNBMzAlM0ExMCUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 33 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTAxKzIyJTNBMzAlM0ExMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAzLTAxKzExJTNBNDYlM0EyNCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTI4KzIxJTNBMDglM0E1MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTI3KzIyJTNBNTIlM0E1MyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTI3KzEyJTNBMDklM0EyOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0yJnA9MjAyMi0wMi0yNisyMSUzQTMwJTNBNTklMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTI2KzEwJTNBNDglM0EyNSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTI1KzIxJTNBNDIlM0ExMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTI1KzEwJTNBNTclM0EyOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTI0KzExJTNBMTYlM0ExNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTIzKzE5JTNBMzclM0E0NiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTIzKzA2JTNBMzQlM0ExMSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTIyKzE1JTNBNTAlM0EzOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTIyKzA1JTNBMDglM0EwOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wMi0yMSsxNyUzQTM4JTNBMTUlMkIwMCUzQTAw&norad_cat_id=51657, status code: 429
+waiting for 40 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wMi0yMSsxNyUzQTM4JTNBMTUlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTIxKzExJTNBNDQlM0E0MiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0yJnA9MjAyMi0wMi0yMCsyMiUzQTM4JTNBMzQlMkIwMCUzQTAw&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wMi0yMCsxMCUzQTIyJTNBNDQlMkIwMCUzQTAw&norad_cat_id=51657, status code: 429
+waiting for 44 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wMi0yMCsxMCUzQTIyJTNBNDQlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTE5KzEwJTNBMzQlM0EwMiUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTE4KzIxJTNBMjclM0E1NCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wMi0xOCsxMCUzQTQ0JTNBMzglMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTE3KzIxJTNBMzklM0EwNyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wMi0xNysxMCUzQTU0JTNBMjYlMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=bz0xJnA9MjAyMi0wMi0xNisxNyUzQTA2JTNBMzElMkIwMCUzQTAw&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTE2KzA2JTNBMTklM0EwOCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTE1KzE3JTNBMTclM0EyOSUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTE1KzExJTNBMTclM0EwMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTE0KzIyJTNBMTElM0E0NCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTE0KzE1JTNBNTAlM0EwMCUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTE0KzExJTNBMzIlM0EyMyUyQjAwJTNBMDA%3D&norad_cat_id=51657
+Failed to fetch data from https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTE0KzEwJTNBNDIlM0E0MSUyQjAwJTNBMDA%3D&norad_cat_id=51657, status code: 429
+waiting for 27 seconds before retrying...
+retrying now...
+Next page URL: https://network.satnogs.org/api/observations/?cursor=cD0yMDIyLTAyLTE0KzEwJTNBNDIlM0E0MSUyQjAwJTNBMDA%3D&norad_cat_id=51657
