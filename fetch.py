@@ -32,7 +32,7 @@ def fetch_next_page_url(url):
 
 
 if __name__ == "__main__":
-    current_url = "https://network.satnogs.org/api/observations/?cursor=cD0yMDI1LTAyLTIwKzE4JTNBMDglM0E1MiUyQjAwJTNBMDA%3D&norad_cat_id=51657" #in case of stopped dump in between and you have to restart it where it stopped just take the last url for next page in log.txt file and paste here and then re run the script
+    current_url = "https://network.satnogs.org/api/observations/?norad_cat_id=51657" #in case of stopped dump in between and you have to restart it where it stopped just take the last url for next page in log.txt file and paste here and then re run the script
     next_url = fetch_next_page_url(current_url) #for InspireSat-1
     while next_url:
         current_url = next_url
