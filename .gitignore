@@ -1,2 +1,3 @@
 satnogs_*/
 .venv
+__pycache__/
