@@ -32,6 +32,6 @@ for filename in os.listdir(demodulated_path):
             d[field] = number
         is1_df = pd.concat([is1_df, pd.DataFrame([d])], ignore_index=True)
 
-is1_df.to_sql('is1_health_data.db', if_exists='replace', index=False, con='sqlite:///is1_health_data.db')
+is1_df.to_sql('is1_health_data.db', if_exists='replace', index=False, con='sqlite:///is1_health_data_level2.db')
 end = time.time()
 print(f"Time taken: {end - start} seconds")
