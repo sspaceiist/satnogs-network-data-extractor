@@ -1,0 +1,1066 @@
+{
+    "0": {
+        "Name": "SHCOARSE",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "1": {
+        "Name": "SHFINE",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "2": {
+        "Name": "cmd_recv_count",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "3": {
+        "Name": "cmd_fail_count",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "4": {
+        "Name": "cmd_succ_count",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "5": {
+        "Name": "cmd_succ_op",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "6": {
+        "Name": "cmd_fail_op",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "7": {
+        "Name": "cmd_fail_code",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "8": {
+        "Name": "eclipse_state",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "9": {
+        "Name": "pwr_status_sd1",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "10": {
+        "Name": "pwr_status_sd0",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "11": {
+        "Name": "pwr_status_htr",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "12": {
+        "Name": "pwr_status_sband",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "13": {
+        "Name": "pwr_status_adcs",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "14": {
+        "Name": "pwr_status_cip",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "15": {
+        "Name": "pwr_status_daxss",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "16": {
+        "Name": "sd_read_misc",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "17": {
+        "Name": "sd_read_scic",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "18": {
+        "Name": "sd_read_scid",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "19": {
+        "Name": "sd_read_adcs",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "20": {
+        "Name": "sd_read_beacon",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "21": {
+        "Name": "sd_read_log",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "22": {
+        "Name": "sd_write_misc",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "23": {
+        "Name": "sd_write_scic",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "24": {
+        "Name": "sd_write_scid",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "25": {
+        "Name": "sd_write_adcs",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "26": {
+        "Name": "sd_write_beacon",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "27": {
+        "Name": "sd_write_log",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "28": {
+        "Name": "cmd_loss_timer",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "29": {
+        "Name": "clt_state",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "30": {
+        "Name": "alive_daxss",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "31": {
+        "Name": "alive_cip",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "32": {
+        "Name": "alive_adcs",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "33": {
+        "Name": "alive_sband",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "34": {
+        "Name": "alive_uhf",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "35": {
+        "Name": "alive_sd1",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "36": {
+        "Name": "alive_sd0",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "37": {
+        "Name": "cip_comstat",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "38": {
+        "Name": "cip_temp1",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0078125,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "39": {
+        "Name": "cip_temp2",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0078125,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "40": {
+        "Name": "cip_temp3",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0078125,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "41": {
+        "Name": "uhf_temp_buff",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "42": {
+        "Name": "uhf_temp",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "43": {
+        "Name": "uhf_locked",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "44": {
+        "Name": "uhf_readback",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "45": {
+        "Name": "uhf_swd",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "46": {
+        "Name": "uhf_afc",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "47": {
+        "Name": "uhf_echo",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "48": {
+        "Name": "uhf_channel",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "49": {
+        "Name": "sband_pa_curr",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.00004,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "50": {
+        "Name": "sband_pa_volt",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.00004,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "51": {
+        "Name": "sband_rf_pwr",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.001139,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "52": {
+        "Name": "sband_pa_temp",
+        "Conversion_C0": -50.0,
+        "Conversion_C1": 0.073242,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "53": {
+        "Name": "sband_top_temp",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0625,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "54": {
+        "Name": "sband_bottom_temp",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0625,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "55": {
+        "Name": "adcs_cmd_acpt",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "56": {
+        "Name": "adcs_cmd_fail",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "57": {
+        "Name": "adcs_time",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "58": {
+        "Name": "adcs_att_valid",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "59": {
+        "Name": "adcs_refs_valid",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "60": {
+        "Name": "adcs_time_valid",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "61": {
+        "Name": "adcs_mode",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "62": {
+        "Name": "adcs_recom_sun_pt",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "63": {
+        "Name": "adcs_sun_pt_state",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "64": {
+        "Name": "adcs_star_temp",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.8,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "65": {
+        "Name": "adcs_wheel_temp1",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "66": {
+        "Name": "adcs_wheel_temp2",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "67": {
+        "Name": "adcs_wheel_temp3",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "68": {
+        "Name": "adcs_digi_bus_volt",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.00125,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "69": {
+        "Name": "adcs_sun_vec1",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0001,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "70": {
+        "Name": "adcs_sun_vec2",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0001,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "71": {
+        "Name": "adcs_sun_vec3",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0001,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "72": {
+        "Name": "adcs_wheel_sp1",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.4,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "73": {
+        "Name": "adcs_wheel_sp2",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.4,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "74": {
+        "Name": "adcs_wheel_sp3",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.4,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "75": {
+        "Name": "adcs_body_rt1",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.000000005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "76": {
+        "Name": "adcs_body_rt2",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.000000005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "77": {
+        "Name": "adcs_body_rt3",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.000000005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "78": {
+        "Name": "padding",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "79": {
+        "Name": "padding",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "80": {
+        "Name": "padding",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "81": {
+        "Name": "DAXSS Time Stamp (seconds)",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "82": {
+        "Name": "daxss_cmd_op",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "83": {
+        "Name": "daxss_cmd_succ",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "84": {
+        "Name": "daxss_cmd_fail",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "85": {
+        "Name": "daxss_cdh_enables",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "86": {
+        "Name": "daxss_cdh_temp",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.003906,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "87": {
+        "Name": "daxss_sps_rate",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "88": {
+        "Name": "daxss_sps_x",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "89": {
+        "Name": "daxss_sps_y",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "90": {
+        "Name": "daxss_slow_count",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "91": {
+        "Name": "bat_fg1",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.003906,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "92": {
+        "Name": "daxss_curr",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "93": {
+        "Name": "daxss_volt",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.001,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "94": {
+        "Name": "cdh_curr",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "95": {
+        "Name": "cdh_volt",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.001,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "96": {
+        "Name": "sband_curr",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "97": {
+        "Name": "sband_volt",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.001,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "98": {
+        "Name": "uhf_curr",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "99": {
+        "Name": "uhf_volt",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.001,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "100": {
+        "Name": "heater_curr",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "101": {
+        "Name": "heater_volt",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.001,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "102": {
+        "Name": "sp2_curr",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "103": {
+        "Name": "sp2_volt",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.001,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "104": {
+        "Name": "sp1_curr",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "105": {
+        "Name": "sp1_volt",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.001,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "106": {
+        "Name": "sp0_curr",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.00125,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "107": {
+        "Name": "sp0_volt",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.00125,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "108": {
+        "Name": "bat_vcell",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "109": {
+        "Name": "gps_12v_2_curr",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "110": {
+        "Name": "gps_12v_2_volt",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.001,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "111": {
+        "Name": "gps_12v_1_curr",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "112": {
+        "Name": "gps_12v_1_volt",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.001,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "113": {
+        "Name": "bat_curr",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "114": {
+        "Name": "bat_volt",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.001,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "115": {
+        "Name": "adcs_curr",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "116": {
+        "Name": "adcs_volt",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.001,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "117": {
+        "Name": "3p3_curr",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "118": {
+        "Name": "3p3_volt",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.001,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "119": {
+        "Name": "cip_curr",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.0005,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "120": {
+        "Name": "cip_volt",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.001,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "121": {
+        "Name": "obc_temp",
+        "Conversion_C0": 91.394,
+        "Conversion_C1": -0.0894932,
+        "Conversion_C2": 0.0000355,
+        "Conversion_C3": -0.0000000063,
+        "Conversion_C4": 0.0
+    },
+    "122": {
+        "Name": "eps_temp",
+        "Conversion_C0": 91.394,
+        "Conversion_C1": -0.0894932,
+        "Conversion_C2": 0.0000355,
+        "Conversion_C3": -0.0000000063,
+        "Conversion_C4": 0.0
+    },
+    "123": {
+        "Name": "int_temp",
+        "Conversion_C0": 91.394,
+        "Conversion_C1": -0.0894932,
+        "Conversion_C2": 0.0000355,
+        "Conversion_C3": -0.0000000063,
+        "Conversion_C4": 0.0
+    },
+    "124": {
+        "Name": "sp0_temp",
+        "Conversion_C0": 91.394,
+        "Conversion_C1": -0.0894932,
+        "Conversion_C2": 0.0000355,
+        "Conversion_C3": -0.0000000063,
+        "Conversion_C4": 0.0
+    },
+    "125": {
+        "Name": "bat0_temp",
+        "Conversion_C0": -259.74,
+        "Conversion_C1": 1.471182747,
+        "Conversion_C2": 0.000359,
+        "Conversion_C3": 0.0000000877,
+        "Conversion_C4": 0.0
+    },
+    "126": {
+        "Name": "sp1_temp",
+        "Conversion_C0": 91.394,
+        "Conversion_C1": -0.0894932,
+        "Conversion_C2": 0.0000355,
+        "Conversion_C3": -0.0000000063,
+        "Conversion_C4": 0.0
+    },
+    "127": {
+        "Name": "bat1_temp",
+        "Conversion_C0": -259.74,
+        "Conversion_C1": 1.471182747,
+        "Conversion_C2": 0.000359,
+        "Conversion_C3": 0.0000000877,
+        "Conversion_C4": 0.0
+    },
+    "128": {
+        "Name": "sp2_temp",
+        "Conversion_C0": 91.394,
+        "Conversion_C1": -0.0894932,
+        "Conversion_C2": 0.0000355,
+        "Conversion_C3": -0.0000000063,
+        "Conversion_C4": 0.0
+    },
+    "129": {
+        "Name": "bat_fg3",
+        "Conversion_C0": 0.0,
+        "Conversion_C1": 0.003906,
+        "Conversion_C2": 0.0,
+        "Conversion_C3": 0.0,
+        "Conversion_C4": 0.0
+    },
+    "130": {
+        "Name": "bat0_temp_conv",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "131": {
+        "Name": "bat1_temp_conv",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    },
+    "132": {
+        "Name": "mode",
+        "Conversion_C0": null,
+        "Conversion_C1": null,
+        "Conversion_C2": null,
+        "Conversion_C3": null,
+        "Conversion_C4": null
+    }
+}
